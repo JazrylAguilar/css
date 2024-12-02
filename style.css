@@ -1,0 +1,25 @@
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+}
+.highlight {background-color: red;}
+#main-content {width: 80%;} 
+body {background-color: blanchedalmond; text-align: center;}
+div {background-color: rgb(120, 90, 68); }
+.topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: rgb(120, 90, 68);
+  }
+.topnav a:hover {background-color: rgb(228, 200, 166);}
+.topnav a.active {background-color: blanchedalmond; color: black;}
+li {color: rgb(174, 159, 135);}
+.Background {background-image: url(Images/Background.jpg); margin: 0% 7.5% 0% 7.5%; border-style: groove;}
+.textbg {background-color: burlywood; width: 75%;   margin: 5% 0% 10% 12.5%; border-style: dotted;}
+h2 {font-size: 44px; color: wheat;}
+.RPrdImg { width: 400px; height: 300px; border-style: dashed; float: right; margin-right: 5%;}
+.LPrdImg { width: 400px; height: 300px; border-style: dashed; float: left; margin-left: 5%;}
